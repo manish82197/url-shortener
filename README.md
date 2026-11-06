@@ -2,6 +2,8 @@
 
 A URL shortening service with custom aliases and click analytics, built with Node.js, Express and SQLite.
 
+**Live demo:** https://url-shortener-6qdm.onrender.com (free tier: the first load after idle can take ~30s, and stored links reset on restart)
+
 ## Features
 
 - **Short links:** random 7-character codes or custom aliases (3-20 chars)
